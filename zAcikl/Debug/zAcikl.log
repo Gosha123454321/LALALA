@@ -1,0 +1,3 @@
+﻿  zAcikl.cpp
+D:\git123\LALALA\zAcikl\zAcikl.cpp(8,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  zAcikl.vcxproj -> D:\git123\LALALA\zAcikl\Debug\zAcikl.exe

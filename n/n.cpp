@@ -7,7 +7,7 @@ int main() {
 		int x;
 		cin >> x;
 		sum += x;
-
+		cout << "i=" "<< i <<" "sum=" << sum << endl;
 	}
 	cout << sum;
 	return 0;
