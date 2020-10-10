@@ -1,0 +1,3 @@
+﻿  zGcw.cpp
+D:\git123\LALALA\ciklWh\zGcw\zGcw.cpp(10,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  zGcw.vcxproj -> D:\git123\LALALA\ciklWh\zGcw\Debug\zGcw.exe

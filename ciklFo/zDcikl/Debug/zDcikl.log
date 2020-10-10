@@ -1,0 +1,4 @@
+﻿  zDcikl.cpp
+D:\git123\LALALA\cikl\zDcikl\zDcikl.cpp(9): error C4700: использована неинициализированная локальная переменная "fN"
+D:\git123\LALALA\cikl\zDcikl\zDcikl.cpp(12): error C4700: использована неинициализированная локальная переменная "fK"
+D:\git123\LALALA\cikl\zDcikl\zDcikl.cpp(15): error C4700: использована неинициализированная локальная переменная "fN_K"
