@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zadEwhile", "zadEwhile.vcxproj", "{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Debug|x64.ActiveCfg = Debug|x64
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Debug|x64.Build.0 = Debug|x64
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Debug|x86.Build.0 = Debug|Win32
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Release|x64.ActiveCfg = Release|x64
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Release|x64.Build.0 = Release|x64
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Release|x86.ActiveCfg = Release|Win32
+		{AE86ED06-0DD5-4AFB-B79D-60A5E52D9165}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE48D14B-6FED-44C4-8C75-9E7C405EBC27}
+	EndGlobalSection
+EndGlobal
