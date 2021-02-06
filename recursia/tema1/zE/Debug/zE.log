@@ -1,0 +1,5 @@
+﻿  zE.cpp
+D:\git123\LALALA\recursia\zE\zE.cpp(16,8): warning C4018: <: несоответствие типов со знаком и без знака
+D:\git123\LALALA\recursia\zE\zE.cpp(19,8): warning C4018: >: несоответствие типов со знаком и без знака
+D:\git123\LALALA\recursia\zE\zE.cpp(22): warning C4715: scobka: значение возвращается не при всех путях выполнения
+  zE.vcxproj -> D:\git123\LALALA\recursia\zE\Debug\zE.exe
