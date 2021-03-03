@@ -1,0 +1,3 @@
+﻿  zD.cpp
+D:\git123\LALALA\recursia\tema2\zD\zD.cpp(8,10): error C2082: переопределение формального параметра "x"
+D:\git123\LALALA\recursia\tema2\zD\zD.cpp(9,10): error C2082: переопределение формального параметра "y"
